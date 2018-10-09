@@ -1,0 +1,17 @@
+commit 6b10b14131a7f0a087e2fa351930a94aa6cf937d
+Author: ucmm <ucmm@ucmm.umu.se>
+Date:   Tue Oct 9 14:11:46 2018 +0100
+
+    ajde vise stani
+
+commit d7ccbf69558d50bab54876eb5f3843056591de3d
+Author: ucmm <ucmm@ucmm.umu.se>
+Date:   Tue Oct 9 14:09:51 2018 +0100
+
+    dodato MR
+
+commit 4c655a7da2dff4272eb42eb266c0522c6d59df73
+Author: ucmm <ucmm@ucmm.umu.se>
+Date:   Tue Oct 9 13:55:06 2018 +0100
+
+    dokurcilo mi sve.txt
